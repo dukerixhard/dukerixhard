@@ -11,8 +11,8 @@ work aside, i am intrigued by digital art and animations, aesthetic photography 
 
 let's connect
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dukeotieno)
-[![PINTEREST](https://img.shields.io/badge/Pinterest-red?logo=pinterest&style=flat-square)](https://www.pinterest.com/dukerixhard)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dukeotieno)
+[![PINTEREST](https://img.shields.io/badge/PINTEREST-red?logo=pinterest&style=flat-square)](https://www.pinterest.com/dukerixhard)
 
 
 <!--
