@@ -13,6 +13,8 @@ let's connect
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dukeotieno)
 [![PINTEREST](https://img.shields.io/badge/PINTEREST-red?logo=pinterest&style=flat-square)](https://www.pinterest.com/dukerixhard)
 
+![duke's GitHub stats](https://github-readme-stats.vercel.app/api?username=dukerixhard&show_icons=true&theme=tokyonight)
+
 
 <!--
 **dukerixhard/dukerixhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
