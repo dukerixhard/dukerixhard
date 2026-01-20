@@ -17,6 +17,7 @@ work aside, i am intrigued by digital art and animations, aesthetic photography 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 let's connect
+
 [![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dukeotieno)
 [![PINTEREST](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/dukerixhard)
 
