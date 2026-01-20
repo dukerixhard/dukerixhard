@@ -13,13 +13,15 @@ work aside, i am intrigued by digital art and animations, aesthetic photography 
 
 ![](https://github-readme-stats.vercel.app/api?username=dukerixhard&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![]() ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dukerixhard&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# random dev quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-let's connect
+# let's connect
 
 [![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dukeotieno)
 [![PINTEREST](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/dukerixhard)
+
+
+# random dev quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
