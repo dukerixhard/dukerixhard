@@ -2,7 +2,7 @@
 
 welcome to my digital playground — where routers talk, packets flow, and curiosity powers everything.
 
-i'm [DUKE](https://duke.vercel.app), a detail-driven learner blending deep technical chops with a fascination for how people think, connect, and communicate. I thrive in the trenches of networking protocols, website development, and programming in general — but i never stop asking why things work the way they do.
+i'm [DUKE](https://dukerixhard.vercel.app), a detail-driven learner blending deep technical chops with a fascination for how people think, connect, and communicate. I thrive in the trenches of networking protocols, website development, and programming in general — but i never stop asking why things work the way they do.
 
 i learn by doing. i teach by breaking things down. i troubleshoot with precision and empathy. whether it’s a misconfigured router or a misread message, i believe every system — human or digital — deserves clarity and care.
 
