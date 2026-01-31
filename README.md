@@ -11,7 +11,7 @@ work aside, i am intrigued by digital art and animations, aesthetic photography 
 
 ![](https://github-readme-stats.vercel.app/api?username=dukerixhard&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![]() ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dukerixhard&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=dukerixhard&show_icons=true&theme=dark&hide_border=false&v=2) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dukerixhard&theme=dark&hide_border=false&layout=compact&v=2)
+<img src="https://github-readme-stats.vercel.app/api?username=dukerixhard&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true&v=1" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukerixhard&theme=dark&hide_border=false&layout=compact&v=1" />
 
 
 # let's connect
