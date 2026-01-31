@@ -11,6 +11,9 @@ work aside, i am intrigued by digital art and animations, aesthetic photography 
 
 ![](https://github-readme-stats.vercel.app/api?username=dukerixhard&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![]() ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dukerixhard&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=dukerixhard&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dukerixhard&theme=dark&hide_border=false&layout=compact)
+
+
 # let's connect
 
 [![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dukeotieno)
